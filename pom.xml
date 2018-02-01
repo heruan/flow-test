@@ -75,8 +75,6 @@
                     <httpConnector>
                         <port>9998</port>
                     </httpConnector>
-                    <useTestScope>true</useTestScope>
-                    <webAppSourceDirectory>${basedir}/src/main/resources/META-INF/resources</webAppSourceDirectory>
                 </configuration>
             </plugin>
         </plugins>
